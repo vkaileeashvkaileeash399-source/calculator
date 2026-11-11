@@ -1,2 +1,11 @@
-# calculator
-A basic calculator application for performing everyday arithmetic operations.
+# Calculator
+
+A simple calculator application.
+
+## Features
+- Basic calculations
+- Beginner friendly
+- Responsive design
+
+## Status
+🚧 Work in Progress
